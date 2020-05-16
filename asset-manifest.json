@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/To-do/static/css/main.75e7fca0.chunk.css",
+    "main.js": "/To-do/static/js/main.e55b7c5e.chunk.js",
+    "main.js.map": "/To-do/static/js/main.e55b7c5e.chunk.js.map",
+    "runtime-main.js": "/To-do/static/js/runtime-main.cb9e3cc4.js",
+    "runtime-main.js.map": "/To-do/static/js/runtime-main.cb9e3cc4.js.map",
+    "static/js/2.ef6c0639.chunk.js": "/To-do/static/js/2.ef6c0639.chunk.js",
+    "static/js/2.ef6c0639.chunk.js.map": "/To-do/static/js/2.ef6c0639.chunk.js.map",
+    "index.html": "/To-do/index.html",
+    "precache-manifest.12a281a8e55dbfb65fd235c51004cdaf.js": "/To-do/precache-manifest.12a281a8e55dbfb65fd235c51004cdaf.js",
+    "service-worker.js": "/To-do/service-worker.js",
+    "static/css/main.75e7fca0.chunk.css.map": "/To-do/static/css/main.75e7fca0.chunk.css.map",
+    "static/js/2.ef6c0639.chunk.js.LICENSE.txt": "/To-do/static/js/2.ef6c0639.chunk.js.LICENSE.txt",
+    "static/media/checkedIcon.svg": "/To-do/static/media/checkedIcon.3f307db3.svg",
+    "static/media/index.css": "/To-do/static/media/desk.b9e65c66.jpg",
+    "static/media/removeIcon.svg": "/To-do/static/media/removeIcon.87da3865.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb9e3cc4.js",
+    "static/js/2.ef6c0639.chunk.js",
+    "static/css/main.75e7fca0.chunk.css",
+    "static/js/main.e55b7c5e.chunk.js"
+  ]
+}
