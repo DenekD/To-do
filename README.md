@@ -1,6 +1,5 @@
 https://denekd.github.io/To-do/
 
+Standard app of every junior's portfolio so why don't include it to those of mine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
+This is my first React app so it doesn't blow your mind
